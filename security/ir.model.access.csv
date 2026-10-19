@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_lm_pos_device_user,lm.pos.device user,model_lm_pos_device,lm_pos_api.group_lm_pos_device_user,1,0,0,0
+access_lm_pos_device_manager,lm.pos.device manager,model_lm_pos_device,lm_pos_api.group_lm_pos_device_manager,1,1,1,1
